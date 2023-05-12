@@ -12,7 +12,7 @@ import speech_recognition as sr
 from gtts import gTTS
 import json
 
-openai.api_key = "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"
+openai.api_key = "Paste YOUR API key"
 
 # Load previous conversations from a JSON file
 def load_conversations():
